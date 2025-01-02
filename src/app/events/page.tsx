@@ -1,3 +1,4 @@
+import FooterComponent from '@/components/footer'
 import HeaderComponent from '@/components/header'
 import Image from 'next/image'
 
@@ -103,6 +104,8 @@ export default function EventsPage() {
 					</picture>
 				</div>
 			</div>
+
+			<FooterComponent />
 		</div>
 	)
 }

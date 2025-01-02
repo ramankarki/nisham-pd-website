@@ -9,10 +9,10 @@ export default function ArticlePage() {
 
 			<Image
 				className='m-auto'
-				src='/images/bot.png'
+				src='/images/article.png'
 				alt='bot'
-				width={300}
-				height={300}
+				width={724}
+				height={350}
 			/>
 
 			<article>
